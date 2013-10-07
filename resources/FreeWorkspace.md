@@ -41,7 +41,7 @@ Keys are [coordinated weekly on GitHub](https://github.com/Appsterdam/open/issue
 | Monday | Hristo Hristov | @ribeto | @ribeto | --- |
 | Tuesday | ---  | --- | --- | --- |
 | Wednesday | ---  | --- | --- | --- |
-| Thursday | ---  | --- | --- | --- |
+| Thursday | Tom  | @tomvanarman | @tomvanarman | --- |
 | Friday | Hristo Hristov | @ribeto | @ribeto | --- |
 
 24-hour access is available. Ask us about it: info@appsterdam.rs
